@@ -28,7 +28,7 @@ Efficient client-server communication to enhance scalability and maintainability
 Utilize Hibernate for managing property data, user information, and booking transactions.
 Implement input validation, error handling, and user session management for improved security and user experience.
 
-**Technologies Used**
+**Technologies Used:**
 
 Backend: Spring Boot, Hibernate
 
