@@ -31,10 +31,15 @@ Implement input validation, error handling, and user session management for impr
 **Technologies Used**
 
 Backend: Spring Boot, Hibernate
+
 Frontend: HTML, CSS, JavaScript
+
 Database: MySQL
+
 API: RESTful APIs
+
 Security: Interceptor, BCrypt
+
 Tools: Git, IntelliJ
 
 **Security:**
